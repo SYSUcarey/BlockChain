@@ -1,5 +1,5 @@
-var KDA_BALLOT = artifacts.require("kda_ballot");
+var kda_ballot = artifacts.require("kda_ballot");
 
 module.exports = function(deployer) {
-  deployer.deploy(KDA_BALLOT, {gas: 200000000});
+  deployer.deploy(kda_ballot, {gas: 200000000});
 };
