@@ -1,0 +1,30 @@
+* {
+            font-family: 'Microsoft YaHei', Helvetica, sans-serif;
+        }
+
+        body {
+            background-image: url('../images/background.jpg');
+            background-attachment:fixed;
+        }
+        video {
+        	height: 100%;
+        	width: 100%;
+        }
+        .text-center {
+        	color: white;
+        }
+        .panel-body {
+        	text-align: center;
+        }
+        .img-center {
+        	height: 99px;
+        	width: 99px;
+        }
+        .layout {
+        	text-align: center;
+        }
+        .info {
+        	width: 200px;
+        	float: left;
+        	text-align: left;
+        }
